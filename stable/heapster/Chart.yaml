@@ -4,7 +4,7 @@ name: heapster
 version: 0.1.1
 sources:
   - https://github.com/kubernetes/heapster
-  - https://github.com/kubernetes/contrib/tree/master/addon-resizer
+  - https://github.com/kubernetes/autoscaler/tree/master/addon-resizer
 keywords:
   - metrics
   - cadvisor
